@@ -1,0 +1,4 @@
+username:solomonts
+password: 1234567890
+
+dburl=mongodb+srv://solomonts:1234567890@cluster0.cpzpnug.mongodb.net/library?retryWrites=true&w=majority
